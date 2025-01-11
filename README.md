@@ -1,1 +1,1 @@
-# 50DaysofML
+# 50 Days of Artificial Intelligence
