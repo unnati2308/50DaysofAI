@@ -16,11 +16,10 @@ Machine Learning is a subset of AI that focuses on algorithms that allow compute
 2) Make predictions
 3) Improve their performance over time by analyzing data
 
-- Key aspects of Machine Learning include:
-
-a) Supervised Learning: Training on labeled data to make predictions
-b) Unsupervised Learning: Discovering patterns in unlabeled data
-c) Reinforcement Learning: Learning through trial and error by interacting with an environment
+Key aspects of Machine Learning include:
+- Supervised Learning: Training on labeled data to make predictions
+- Unsupervised Learning: Discovering patterns in unlabeled data
+- Reinforcement Learning: Learning through trial and error by interacting with an environment
 
 ### Deep Learning
 
