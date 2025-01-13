@@ -44,7 +44,7 @@ Data Science is an interdisciplinary field that uses scientific methods, process
 The 50-day AI course will cover four main areas:
 
   1) Data Analysis (4-5 videos)
-        - Understanding data structures
+        - Understanding data analysis
         - Cleaning and preprocessing data
         - Visualizing data
         - Statistical analysis
@@ -52,8 +52,8 @@ The 50-day AI course will cover four main areas:
   2) Machine Learning (15-16 videos)
         - Introduction to ML concepts
         - Supervised and unsupervised learning
+        - Different ML Algorithms
         - Model evaluation and selection
-        - Advanced ML techniques
 
   3) Deep Learning (14-15 videos)
         - Neural network fundamentals
@@ -63,8 +63,9 @@ The 50-day AI course will cover four main areas:
 
   4) Artificial Intelligence (15 videos)
         - Natural Language Processing (NLP)
+        - Retrieval Augmented Generation (RAG)
         - Computer Vision
-        - Robotics and Control Systems
+        - Generative AI
         - Ethical considerations in AI
 
 ### Resources
