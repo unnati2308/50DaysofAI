@@ -70,5 +70,7 @@ The 50-day AI course will cover four main areas:
 ### Resources
   
   - Participants are encouraged to engage actively and ask questions
+  - Python for data science: A course on Coursera
+    https://www.coursera.org/programs/manipal-education-tguaf/learn/python-for-applied-data-science-ai?authProvider=manipal&collectionId=wzj28
 
 This course aims to provide a comprehensive introduction to AI, covering fundamental concepts, practical implementations, and cutting-edge technologies in the field.
