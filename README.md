@@ -8,6 +8,9 @@ Artificial Intelligence encompasses the creation of intelligent machines that ca
 2) **Problem-solving**: Finding solutions to complex challenges or situations.
 3) **Decision Making**: Selecting the best option among available alternatives.
 
+![image](https://github.com/user-attachments/assets/5176aab1-2f81-4c28-88c6-e90f7f2dc1d7)
+
+
 ### Machine Learning (ML)
 
 Machine Learning is a subset of AI that focuses on algorithms that allow computers to learn from data without being explicitly programmed. ML algorithms can:
