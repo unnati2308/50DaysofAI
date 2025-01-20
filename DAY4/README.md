@@ -1,4 +1,5 @@
 This notebook focuses on visualizing data using some more plotting techniques such as scatter plot, box plot, and pair plot. Each step will be broken down with a detailed explanation of the functions used to generate and customize these plots.
+
 ---
 # 1. Importing Libraries
 The notebook begins by importing libraries necessary for data visualization and manipulation, such as:
